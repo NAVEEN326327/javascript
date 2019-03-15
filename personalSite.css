@@ -1,0 +1,135 @@
+body{
+    
+    margin-left: 0px;
+    background-color: #e3e7f1;
+    
+
+ }
+.first-container{
+    width: 200px;
+    height:200px;
+    background-color: blue;
+    padding: 20px;
+    border:solid black 10px;
+}
+.second-container{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    margin-left: 260px;
+    border:solid black 20px;
+}
+.third-container{
+    width: 200px;
+    height: 200px;
+    background-color: papayawhip;
+    margin-left: 500px;
+    border:solid black 10px;
+}
+#span1{
+       color:purple; 
+}
+#span2{
+    color:chocolate;
+    
+}
+#span3{
+    color:darkslateblue;
+    
+}
+.p1{
+    color: red;
+    background-color: black; 
+}
+.p2{
+    color:white;
+    background-color: purple;
+}
+#p3{
+    color: chartreuse;
+    background-color: darkgoldenrod;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  
+    
+}
+.blue{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+   
+    top: 100px;
+    left:100px;
+
+}
+.red{
+    background-color:red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+
+  top: 200px;
+  left: 200px;
+}
+.header1{
+    margin-top: 0px;
+    background-color:#c6cbef;
+    height: 4000px;
+    width: 500px;
+    position: fixed;
+    text-align: center;
+
+
+}
+.img1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top:50px;
+   
+}
+.form1{
+    width: 300px;
+    height: 500px;
+
+}
+h2{
+
+
+    font-family: 'Dancing Script', cursive;
+}
+.div2{
+    margin-left: 600px;
+
+
+}
+.background{
+    margin-left: 600px;
+
+}
+.insidediv2{
+    background-color:black;
+    height: 500px;
+    width: 300px;
+    position: absolute;
+    margin-left: 700px;
+    border:round;
+    padding:0px 10px 5px 50px;
+
+}
+.h31{
+    color: white;
+    text-align: center;
+}
+h4{
+    color:white;
+    font-family: 'Dancing Script', cursive;
+}
